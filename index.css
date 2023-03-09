@@ -39,8 +39,8 @@ h2 {
 
 h3 {
   font-size: 22px;
-  color: #f8f8ed;
   font-weight: 500;
+  color: #fff;
   letter-spacing: 1px;
   font-family: "Big Shoulders Text";
 }
@@ -230,6 +230,17 @@ img:hover {
     padding-bottom: 4rem;
   }
 
+  .video {
+    display: none;
+  }
+
+  h3 {
+    font-size: 22px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    font-family: "Big Shoulders Text";
+  }
+
   .overskrift {
     margin: 3rem;
   }
@@ -277,8 +288,9 @@ img:hover {
     padding: 10px;
   }
 
-  .competences {
+  .competences h2 {
     padding-bottom: 3rem;
+    font-size: 40px;
   }
 
   .midten {
@@ -343,6 +355,13 @@ img:hover {
 @media (min-width: 600px) {
   .hero {
     padding-bottom: 4rem;
+  }
+
+  h3 {
+    font-size: 22px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    font-family: "Big Shoulders Text";
   }
 
   .overskrift {
@@ -460,6 +479,13 @@ img:hover {
 @media (min-width: 800px) {
   .hero {
     padding-bottom: 4rem;
+  }
+
+  h3 {
+    font-size: 22px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    font-family: "Big Shoulders Text";
   }
 
   .overskrift {
@@ -661,11 +687,19 @@ img:hover {
   .col_tekst_bl h3 {
     padding-bottom: 10px;
     color: #d43eb5;
+    font-size: 22px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    font-family: "Big Shoulders Text";
   }
 
   .col_tekst_nb h3 {
     padding-bottom: 10px;
     color: #d43eb5;
+    font-size: 22px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    font-family: "Big Shoulders Text";
   }
 
   .nb {
@@ -682,5 +716,9 @@ img:hover {
   .col_tekst_as h3 {
     grid-column-start: 2;
     color: #d43eb5;
+    font-size: 22px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    font-family: "Big Shoulders Text";
   }
 }

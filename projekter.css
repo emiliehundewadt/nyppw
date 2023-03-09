@@ -5,6 +5,7 @@
   }
 
   /* SECTION 3 */
+
   .section3 {
     margin-bottom: 4rem;
     padding-left: 2rem;
@@ -34,6 +35,8 @@
     margin: auto;
     width: 60vh;
     margin-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 
   .nbimg {
@@ -42,6 +45,8 @@
     width: 60vh;
     margin-bottom: 2rem;
     margin-top: 5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 
   .animg {
@@ -50,6 +55,8 @@
     width: 60vh;
     margin-bottom: 2rem;
     margin-top: 5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 
   .col_tekst_bl h3 {
